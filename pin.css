@@ -1,5 +1,6 @@
 body {
     line-height: 1.4;
+    height:25000px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: "Trebuchet MS", sans-serif; }
@@ -37,7 +38,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: "Trebuchet M
       padding: 0 5px;
       color: #666;
       margin-top: 0.5em;
-      font-size: 14px;
+      font-size: 12px;
       line-height: 1;
       width:190px
   }

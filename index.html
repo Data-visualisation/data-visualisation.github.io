@@ -22,7 +22,7 @@
 <div id="nav" style="width:18%;float:left;display:inline-block">
     <div class="menu1-container"></div>
     <div class="menu2-container">
-        <input type="text" class="menu2-search" />
+        <input type="text" class="menu2-search" placeholder="Search" />
         <li class="all"><a href="" class="displayName">all</a></li>
     </div>
 </div>
@@ -71,7 +71,7 @@
         html: function(d, i){
             var content ='';
             if(d.title)  content += "<h3 align='left'>"+d.title+"</h3>";
-            if(d.thumbnail) content += "<img width='180' height='100'  src='"+d.thumbnail+"' class='thumbnail'/>";
+            if(d.thumbnail) content += "<img width='180' height='120'  src='"+d.thumbnail+"' class='thumbnail'/>";
             if(d.author) content += ' '+'<span class="author">'+d.author+'</span>';
             return content;}
     };
