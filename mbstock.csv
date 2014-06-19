@@ -255,16 +255,16 @@ http://bl.ocks.org/biovisualize/6992175,http://bl.ocks.org/biovisualize/raw/6992
 http://bl.ocks.org/biovisualize/7791169,http://bl.ocks.org/biovisualize/raw/7791169/thumbnail.png,D3.js and Backbone,"December 4, 2013",Erik Solen,
 http://bl.ocks.org/biovisualize/7885521,http://bl.ocks.org/biovisualize/raw/7885521/thumbnail.png,backbone with d3.js and crossfilter,"December 10, 2013",Erik Solen,
 http://bl.ocks.org/biovisualize/7904516,http://bl.ocks.org/biovisualize/raw/7904516/thumbnail.png,Invoice using a minimalist d3 templating system,"December 11, 2013",Erik Solen,
-http://bl.ocks.org/bobbydavid/2553077,http://bl.ocks.org/bobbydavid/raw/2553077/thumbnail.png,Simple init.d script I wrote for starting/stopping mongod,"April 30, 2012",,
-http://bl.ocks.org/bobbydavid/2554645,http://bl.ocks.org/bobbydavid/raw/2554645/thumbnail.png,Example showing how to embed Gists in Tumblr using gist-in-tumblr,"April 30, 2012",,
-http://bl.ocks.org/bobbydavid/2558893,http://bl.ocks.org/bobbydavid/raw/2558893/thumbnail.png,Bashception. The shell is real.,"April 30, 2012",,
-http://bl.ocks.org/bobbydavid/2640463,http://bl.ocks.org/bobbydavid/raw/2640463/thumbnail.png,socket.io in Express 3,"May 9, 2012",,
-http://bl.ocks.org/bobbydavid/2884356,http://bl.ocks.org/bobbydavid/raw/2884356/thumbnail.png,example npm package list,"June 7, 2012",,
-http://bl.ocks.org/bobbydavid/3752931,http://bl.ocks.org/bobbydavid/raw/3752931/thumbnail.png,bash: give yourself useful recent directories with `cd` and `d` commands,"September 20, 2012",,
-http://bl.ocks.org/bobbydavid/4238666,http://bl.ocks.org/bobbydavid/raw/4238666/thumbnail.png,Editor commands I need,"December 8, 2012",,
-http://bl.ocks.org/bobbydavid/5021185,http://bl.ocks.org/bobbydavid/raw/5021185/thumbnail.png,How I moved my home directory to its own partition,"February 24, 2013",,
-http://bl.ocks.org/bobbydavid/5808079,http://bl.ocks.org/bobbydavid/raw/5808079/thumbnail.png,d3 meta-visualization,"June 19, 2013",,
-http://bl.ocks.org/bobbydavid/5841683,http://bl.ocks.org/bobbydavid/raw/5841683/thumbnail.png,DAG visualization,"June 22, 2013",,
+http://bl.ocks.org/bobbydavid/2553077,http://bl.ocks.org/bobbydavid/raw/2553077/thumbnail.png,Simple init.d script I wrote for starting/stopping mongod,"April 30, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/2554645,http://bl.ocks.org/bobbydavid/raw/2554645/thumbnail.png,Example showing how to embed Gists in Tumblr using gist-in-tumblr,"April 30, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/2558893,http://bl.ocks.org/bobbydavid/raw/2558893/thumbnail.png,Bashception. The shell is real.,"April 30, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/2640463,http://bl.ocks.org/bobbydavid/raw/2640463/thumbnail.png,socket.io in Express 3,"May 9, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/2884356,http://bl.ocks.org/bobbydavid/raw/2884356/thumbnail.png,example npm package list,"June 7, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/3752931,http://bl.ocks.org/bobbydavid/raw/3752931/thumbnail.png,bash: give yourself useful recent directories with `cd` and `d` commands,"September 20, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/4238666,http://bl.ocks.org/bobbydavid/raw/4238666/thumbnail.png,Editor commands I need,"December 8, 2012",Robert Martin,
+http://bl.ocks.org/bobbydavid/5021185,http://bl.ocks.org/bobbydavid/raw/5021185/thumbnail.png,How I moved my home directory to its own partition,"February 24, 2013",Robert Martin,
+http://bl.ocks.org/bobbydavid/5808079,http://bl.ocks.org/bobbydavid/raw/5808079/thumbnail.png,d3 meta-visualization,"June 19, 2013",Robert Martin,
+http://bl.ocks.org/bobbydavid/5841683,http://bl.ocks.org/bobbydavid/raw/5841683/thumbnail.png,DAG visualization,"June 22, 2013",Robert Martin,
 http://bl.ocks.org/byrongibson/1921038,http://bl.ocks.org/byrongibson/raw/1921038/thumbnail.png,Python JSON validator,"February 27, 2012",Byron Gibson,
 http://bl.ocks.org/byrongibson/1921039,http://bl.ocks.org/byrongibson/raw/1921039/thumbnail.png,Python JSON validator,"February 27, 2012",Byron Gibson,
 http://bl.ocks.org/byrongibson/2054763,http://bl.ocks.org/byrongibson/raw/2054763/thumbnail.png,The Zen of R,"March 17, 2012",Byron Gibson,
@@ -344,14 +344,14 @@ http://bl.ocks.org/enjalot/5754673,,d3.sticker plugin,,,
 http://bl.ocks.org/enjalot/6457608,,Sparkline Directive for Angular with d3.js,,,
 http://bl.ocks.org/enjalot/6641917,,d3 workshop,,,
 http://bl.ocks.org/ericcitaire/5408146,https://github-camo.global.ssl.fastly.net/34530154940925f231c947a1c36db7ee6a8bb8bf/687474703a2f2f626c2e6f636b732e6f72672f65726963636974616972652f7261772f353430383134362f7468756d626e61696c2e706e67,JezzBall,,,
-http://bl.ocks.org/explunit/4659227,http://bl.ocks.org/explunit/raw/4659227/thumbnail.png,D3.js custom shapes in single append,"January 29, 2013",,
-http://bl.ocks.org/explunit/5603250,,D3.js tree with drag nea logic,,,Tree
-http://bl.ocks.org/explunit/5603250,http://bl.ocks.org/explunit/raw/5603250/thumbnail.png,"D3.js tree with drag near"" logic""","May 18, 2013",,Tree
-http://bl.ocks.org/explunit/5988971,http://bl.ocks.org/explunit/raw/5988971/thumbnail.png,Use Inkscape shapes in D3.js tree diagram,"July 13, 2013",,Tree
-http://bl.ocks.org/explunit/6082362,http://bl.ocks.org/explunit/raw/6082362/thumbnail.png,Chained transitions between points on a path/line,"July 25, 2013",,Chained Transitions
-http://bl.ocks.org/explunit/6413259,http://bl.ocks.org/explunit/raw/6413259/thumbnail.png,Memory leak test with add/remove of svg circles,"September 2, 2013",,
-http://bl.ocks.org/explunit/6413371,http://bl.ocks.org/explunit/raw/6413371/thumbnail.png,Memory leak test with repeating node IDs,"September 2, 2013",,
-http://bl.ocks.org/explunit/6413685,http://bl.ocks.org/explunit/raw/6413685/thumbnail.png,D3 browser memory usage test,"September 2, 2013",,
+http://bl.ocks.org/explunit/4659227,http://bl.ocks.org/explunit/raw/4659227/thumbnail.png,D3.js custom shapes in single append,"January 29, 2013",Steve,
+http://bl.ocks.org/explunit/5603250,,D3.js tree with drag nea logic,,Steve,Tree
+http://bl.ocks.org/explunit/5603250,http://bl.ocks.org/explunit/raw/5603250/thumbnail.png,"D3.js tree with drag near"" logic""","May 18, 2013",Steve,Tree
+http://bl.ocks.org/explunit/5988971,http://bl.ocks.org/explunit/raw/5988971/thumbnail.png,Use Inkscape shapes in D3.js tree diagram,"July 13, 2013",Steve,Tree
+http://bl.ocks.org/explunit/6082362,http://bl.ocks.org/explunit/raw/6082362/thumbnail.png,Chained transitions between points on a path/line,"July 25, 2013",Steve,Chained Transitions
+http://bl.ocks.org/explunit/6413259,http://bl.ocks.org/explunit/raw/6413259/thumbnail.png,Memory leak test with add/remove of svg circles,"September 2, 2013",Steve,
+http://bl.ocks.org/explunit/6413371,http://bl.ocks.org/explunit/raw/6413371/thumbnail.png,Memory leak test with repeating node IDs,"September 2, 2013",Steve,
+http://bl.ocks.org/explunit/6413685,http://bl.ocks.org/explunit/raw/6413685/thumbnail.png,D3 browser memory usage test,"September 2, 2013",Steve,
 http://bl.ocks.org/GerHobbelt/1887532,http://christopheviau.com/d3_thumbs/TinyGrab%20Screen%20Shot%203-28-13%201.20.43%20PM.png,HTML5 input type nodes,,Ger Hobbelt,form
 http://bl.ocks.org/gka,,gka’s blocks,,Gregor Aisch,
 http://bl.ocks.org/Guerino1/raw/2879486/,,My Force Directed Graph,,,Force Layout
@@ -376,17 +376,17 @@ http://bl.ocks.org/herrstucki/6899928,http://bl.ocks.org/herrstucki/raw/6899928/
 http://bl.ocks.org/hlvoorhees/5376764,http://bl.ocks.org/hlvoorhees/raw/5376764/thumbnail.png,d3 x3dom event test,"April 13, 2013",hlvoorhees,
 http://bl.ocks.org/hlvoorhees/5819766,http://bl.ocks.org/hlvoorhees/raw/5819766/thumbnail.png,x3dom in callback test,"June 20, 2013",hlvoorhees,
 http://bl.ocks.org/hlvoorhees/5986172,http://bl.ocks.org/hlvoorhees/raw/5986172/thumbnail.png,"3D scatter plot using d3, x3dom","July 12, 2013",hlvoorhees,
-http://bl.ocks.org/ilyabo/1339996,http://bl.ocks.org/ilyabo/raw/1339996/thumbnail.png,D3 tooltip using SVG title element,"November 4, 2011",,
-http://bl.ocks.org/ilyabo/1373263,http://bl.ocks.org/ilyabo/raw/1373263/thumbnail.png,D3 tooltip using jQuery tipsy,"November 17, 2011",,
-http://bl.ocks.org/ilyabo/2209220,http://bl.ocks.org/ilyabo/raw/2209220/thumbnail.png,Flows of refugees between the world countries in 2008,"March 27, 2012",,
-http://bl.ocks.org/ilyabo/2585241,http://bl.ocks.org/ilyabo/raw/2585241/thumbnail.png,D3 Dorling cartogram with rectangular states,"May 3, 2012",,Cartogram
-http://bl.ocks.org/ilyabo/3851555,http://bl.ocks.org/ilyabo/raw/3851555/thumbnail.png,SVG text along a curve with D3,"October 8, 2012",,
-http://bl.ocks.org/ilyabo/3968598,http://bl.ocks.org/ilyabo/raw/3968598/thumbnail.png,just another inlet to tributary,"October 28, 2012",,
-http://bl.ocks.org/ilyabo/3968630,http://bl.ocks.org/ilyabo/raw/3968630/thumbnail.png,just another inlet to tributary,"October 28, 2012",,
-http://bl.ocks.org/ilyabo/3968638,http://bl.ocks.org/ilyabo/raw/3968638/thumbnail.png,just another inlet to tributary,"October 28, 2012",,
-http://bl.ocks.org/ilyabo/3968661,http://bl.ocks.org/ilyabo/raw/3968661/thumbnail.png,created by http://livecoding.io,"October 28, 2012",,
-http://bl.ocks.org/ilyabo/4286815,http://bl.ocks.org/ilyabo/raw/4286815/thumbnail.png,blue balls,"December 14, 2012",,
-http://bl.ocks.org/ilyabo/4344444,http://bl.ocks.org/ilyabo/raw/4344444/thumbnail.png,Briesemeister projection,"December 20, 2012",,
+http://bl.ocks.org/ilyabo/1339996,http://bl.ocks.org/ilyabo/raw/1339996/thumbnail.png,D3 tooltip using SVG title element,"November 4, 2011",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/1373263,http://bl.ocks.org/ilyabo/raw/1373263/thumbnail.png,D3 tooltip using jQuery tipsy,"November 17, 2011",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/2209220,http://bl.ocks.org/ilyabo/raw/2209220/thumbnail.png,Flows of refugees between the world countries in 2008,"March 27, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/2585241,http://bl.ocks.org/ilyabo/raw/2585241/thumbnail.png,D3 Dorling cartogram with rectangular states,"May 3, 2012",Ilya Boyandin,Cartogram
+http://bl.ocks.org/ilyabo/3851555,http://bl.ocks.org/ilyabo/raw/3851555/thumbnail.png,SVG text along a curve with D3,"October 8, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/3968598,http://bl.ocks.org/ilyabo/raw/3968598/thumbnail.png,just another inlet to tributary,"October 28, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/3968630,http://bl.ocks.org/ilyabo/raw/3968630/thumbnail.png,just another inlet to tributary,"October 28, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/3968638,http://bl.ocks.org/ilyabo/raw/3968638/thumbnail.png,just another inlet to tributary,"October 28, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/3968661,http://bl.ocks.org/ilyabo/raw/3968661/thumbnail.png,created by http://livecoding.io,"October 28, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/4286815,http://bl.ocks.org/ilyabo/raw/4286815/thumbnail.png,blue balls,"December 14, 2012",Ilya Boyandin,
+http://bl.ocks.org/ilyabo/4344444,http://bl.ocks.org/ilyabo/raw/4344444/thumbnail.png,Briesemeister projection,"December 20, 2012",Ilya Boyandin,
 http://bl.ocks.org/j0hnsmith/5591116,http://christopheviau.com/d3_thumbs/TinyGrab%20Screen%20Shot%205-16-13%2010.14.10%20AM.png,Pie chart update III,,,Pie Chart
 http://bl.ocks.org/j0hnsmith/5591130,http://christopheviau.com/d3_thumbs/TinyGrab%20Screen%20Shot%205-16-13%2010.15.15%20AM.png,Pie chart update IV,,,Pie Chart
 http://bl.ocks.org/jasondavies/1039698,http://bl.ocks.org/jasondavies/raw/1039698/thumbnail.png,Pedigree Chart,"June 22, 2011",Jason Davies,
@@ -1209,32 +1209,32 @@ http://bl.ocks.org/njvack/1953523,http://bl.ocks.org/njvack/raw/1953523/thumbnai
 http://bl.ocks.org/njvack/2364121,http://bl.ocks.org/njvack/raw/2364121/thumbnail.png,A slightly-overengineered utility to watch signal memory-hungry unicorn workers,"April 12, 2012",Nate Vack,
 http://bl.ocks.org/njvack/3759435,http://bl.ocks.org/njvack/raw/3759435/thumbnail.png,My stab at safe python evaluation,"September 21, 2012",Nate Vack,
 http://bl.ocks.org/njvack/4080338,http://bl.ocks.org/njvack/raw/4080338/thumbnail.png,"Circle packing, study data","November 16, 2012",Nate Vack,Circle Packing
-http://bl.ocks.org/nsonnad/4175202,http://bl.ocks.org/nsonnad/raw/4175202/thumbnail.png,Object constancy with multiple sets of time-series,"November 30, 2012",,
-http://bl.ocks.org/nsonnad/4481531,http://bl.ocks.org/nsonnad/raw/4481531/thumbnail.png,Scatterplot: Social trust vs ease of doing business,"January 8, 2013",,
-http://bl.ocks.org/nsonnad/4528060,http://bl.ocks.org/nsonnad/raw/4528060/thumbnail.png,D3 axis grid lines,"January 14, 2013",,Grid layout
-http://bl.ocks.org/nsonnad/4528210,http://bl.ocks.org/nsonnad/raw/4528210/thumbnail.png,Axis grid using groups,"January 14, 2013",,Grid layout
-http://bl.ocks.org/nsonnad/4544985,http://bl.ocks.org/nsonnad/raw/4544985/thumbnail.png,Area + donut: History of energy use in the US,"January 16, 2013",,Donut Chart
-http://bl.ocks.org/nsonnad/4653951,http://bl.ocks.org/nsonnad/raw/4653951/thumbnail.png,Legislative Yuan similarity,"January 28, 2013",,
-http://bl.ocks.org/nsonnad/5088800,http://bl.ocks.org/nsonnad/raw/5088800/thumbnail.png,select all but this in d3,"March 5, 2013",,
-http://bl.ocks.org/nsonnad/5127223,http://bl.ocks.org/nsonnad/raw/5127223/thumbnail.png,basic data re-join in d3,"March 10, 2013",,
-http://bl.ocks.org/nsonnad/5140222,http://bl.ocks.org/nsonnad/raw/5140222/thumbnail.png,D3: access parent data,"March 12, 2013",,
-http://bl.ocks.org/nsonnad/5158278,http://bl.ocks.org/nsonnad/raw/5158278/thumbnail.png,.attr() after .each(),"March 14, 2013",,
-http://bl.ocks.org/nsonnad/5589796,http://bl.ocks.org/nsonnad/raw/5589796/thumbnail.png,Reusable Bar Char,"May 16, 2013",,Bar Chart
-http://bl.ocks.org/nsonnad/5617536,http://bl.ocks.org/nsonnad/raw/5617536/thumbnail.png,"simple crossfilter, Melb water use","May 21, 2013",,
-http://bl.ocks.org/nsonnad/5773144,http://bl.ocks.org/nsonnad/raw/5773144/thumbnail.png,d3.sticker,"June 13, 2013",,
-http://bl.ocks.org/nsonnad/5822060,http://bl.ocks.org/nsonnad/raw/5822060/thumbnail.png,Tributary inlet,"June 20, 2013",,
-http://bl.ocks.org/nsonnad/5822724,http://bl.ocks.org/nsonnad/raw/5822724/thumbnail.png,Playing around with d3's transition easing options.,"June 20, 2013",,
-http://bl.ocks.org/nsonnad/5907400,http://bl.ocks.org/nsonnad/raw/5907400/thumbnail.png,"Multi-foci d3 force layout, based on data","July 2, 2013",,Force Layout
-http://bl.ocks.org/nsonnad/5942244,http://bl.ocks.org/nsonnad/raw/5942244/thumbnail.png,psi man,"July 7, 2013",,
-http://bl.ocks.org/nsonnad/5982652,http://bl.ocks.org/nsonnad/raw/5982652/thumbnail.png,Colored links in force-directed graph,"July 12, 2013",,
-http://bl.ocks.org/nsonnad/5993342,http://bl.ocks.org/nsonnad/raw/5993342/thumbnail.png,Circle-bound D3 force layout,"July 14, 2013",,Force Layout
-http://bl.ocks.org/nsonnad/6084524,http://bl.ocks.org/nsonnad/raw/6084524/thumbnail.png,optical_illusion_001_motion2,"July 26, 2013",,
-http://bl.ocks.org/nsonnad/6621805,http://bl.ocks.org/nsonnad/raw/6621805/thumbnail.png,invisible element to load web font before getBBox needs it,"September 19, 2013",,
-http://bl.ocks.org/nsonnad/6827571,http://bl.ocks.org/nsonnad/raw/6827571/thumbnail.png,Gist from mistakes.io,"October 4, 2013",,
-http://bl.ocks.org/nsonnad/7498027,http://bl.ocks.org/nsonnad/raw/7498027/thumbnail.png,"control flow library, from mixu's node book","November 16, 2013",,
-http://bl.ocks.org/nsonnad/7598574,http://bl.ocks.org/nsonnad/raw/7598574/thumbnail.png,Python script for converting tsv to csv,"November 22, 2013",,
-http://bl.ocks.org/nsonnad/7598828,http://bl.ocks.org/nsonnad/raw/7598828/thumbnail.png,Iterate over specific range of rows with python csv.reader(),"November 22, 2013",,
-http://bl.ocks.org/nsonnad/7690134,http://bl.ocks.org/nsonnad/raw/7690134/thumbnail.png,shell: print specific rows of file from terminal,"November 28, 2013",,
+http://bl.ocks.org/nsonnad/4175202,http://bl.ocks.org/nsonnad/raw/4175202/thumbnail.png,Object constancy with multiple sets of time-series,"November 30, 2012",Nikhil S,
+http://bl.ocks.org/nsonnad/4481531,http://bl.ocks.org/nsonnad/raw/4481531/thumbnail.png,Scatterplot: Social trust vs ease of doing business,"January 8, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/4528060,http://bl.ocks.org/nsonnad/raw/4528060/thumbnail.png,D3 axis grid lines,"January 14, 2013",Nikhil S,Grid layout
+http://bl.ocks.org/nsonnad/4528210,http://bl.ocks.org/nsonnad/raw/4528210/thumbnail.png,Axis grid using groups,"January 14, 2013",Nikhil S,Grid layout
+http://bl.ocks.org/nsonnad/4544985,http://bl.ocks.org/nsonnad/raw/4544985/thumbnail.png,Area + donut: History of energy use in the US,"January 16, 2013",Nikhil S,Donut Chart
+http://bl.ocks.org/nsonnad/4653951,http://bl.ocks.org/nsonnad/raw/4653951/thumbnail.png,Legislative Yuan similarity,"January 28, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5088800,http://bl.ocks.org/nsonnad/raw/5088800/thumbnail.png,select all but this in d3,"March 5, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5127223,http://bl.ocks.org/nsonnad/raw/5127223/thumbnail.png,basic data re-join in d3,"March 10, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5140222,http://bl.ocks.org/nsonnad/raw/5140222/thumbnail.png,D3: access parent data,"March 12, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5158278,http://bl.ocks.org/nsonnad/raw/5158278/thumbnail.png,.attr() after .each(),"March 14, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5589796,http://bl.ocks.org/nsonnad/raw/5589796/thumbnail.png,Reusable Bar Char,"May 16, 2013",Nikhil S,Bar Chart
+http://bl.ocks.org/nsonnad/5617536,http://bl.ocks.org/nsonnad/raw/5617536/thumbnail.png,"simple crossfilter, Melb water use","May 21, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5773144,http://bl.ocks.org/nsonnad/raw/5773144/thumbnail.png,d3.sticker,"June 13, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5822060,http://bl.ocks.org/nsonnad/raw/5822060/thumbnail.png,Tributary inlet,"June 20, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5822724,http://bl.ocks.org/nsonnad/raw/5822724/thumbnail.png,Playing around with d3's transition easing options.,"June 20, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5907400,http://bl.ocks.org/nsonnad/raw/5907400/thumbnail.png,"Multi-foci d3 force layout, based on data","July 2, 2013",Nikhil S,Force Layout
+http://bl.ocks.org/nsonnad/5942244,http://bl.ocks.org/nsonnad/raw/5942244/thumbnail.png,psi man,"July 7, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5982652,http://bl.ocks.org/nsonnad/raw/5982652/thumbnail.png,Colored links in force-directed graph,"July 12, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/5993342,http://bl.ocks.org/nsonnad/raw/5993342/thumbnail.png,Circle-bound D3 force layout,"July 14, 2013",Nikhil S,Force Layout
+http://bl.ocks.org/nsonnad/6084524,http://bl.ocks.org/nsonnad/raw/6084524/thumbnail.png,optical_illusion_001_motion2,"July 26, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/6621805,http://bl.ocks.org/nsonnad/raw/6621805/thumbnail.png,invisible element to load web font before getBBox needs it,"September 19, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/6827571,http://bl.ocks.org/nsonnad/raw/6827571/thumbnail.png,Gist from mistakes.io,"October 4, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/7498027,http://bl.ocks.org/nsonnad/raw/7498027/thumbnail.png,"control flow library, from mixu's node book","November 16, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/7598574,http://bl.ocks.org/nsonnad/raw/7598574/thumbnail.png,Python script for converting tsv to csv,"November 22, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/7598828,http://bl.ocks.org/nsonnad/raw/7598828/thumbnail.png,Iterate over specific range of rows with python csv.reader(),"November 22, 2013",Nikhil S,
+http://bl.ocks.org/nsonnad/7690134,http://bl.ocks.org/nsonnad/raw/7690134/thumbnail.png,shell: print specific rows of file from terminal,"November 28, 2013",Nikhil S,
 http://bl.ocks.org/oncletom/5822102,,D3 Waveform Live demo,,,
 http://bl.ocks.org/PMeinshausen/5806106,http://bl.ocks.org/PMeinshausen/raw/5806106/thumbnail.png,Zoomable Treemap of the Chicago Data Portal,"June 18, 2013",,tree map
 http://bl.ocks.org/PMeinshausen/6165815,http://bl.ocks.org/PMeinshausen/raw/6165815/thumbnail.png,Draft visualization of Gov 2001 course,"August 6, 2013",,

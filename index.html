@@ -1,48 +1,69 @@
-<!doctype html>
+<!doctype html><!DOCTYPE html>
+<!-------------------------------------------------------------
+ Name:        data-visualisation.github.io
+ Purpose:     Data visualisation and analytics examples
+ Author:      sushanth
+ Created:     18-08-2013
+ Modified:    19-06-2014
+ Copyright:  (c) sushanth
+ Licence:     open-source
+--------------------------------------------------------------->
 <html>
-<head>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="author" content="Sushanth">
+    <meta name="description" content="The list of D3 visualisation examples available online covers lots of details">
+    <meta name="keywords" content="data-visualisation, data-analytics, javascript, d3.js, d3.js examples,d3.js list, d3.js example list ,visualisation chart">
+    <link rel="stylesheet" type="text/css" media="screen" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="docs.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="pin.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
+    <link rel="shortcut icon" href="logo.png">
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="d3.v3.js"></script>
     <title> Data-Driven Documents</title>
-    <meta charset=utf-8>
-    <script type="text/javascript" src="./d3.v3.js"></script>
-    
-   <link rel="stylesheet" type="text/css" media="screen" href="bootstrap.min.css">
-   <link rel="stylesheet" type="text/css" media="screen" href="pin.css">
-
-</head>
-<body>
-<div class="container-fluid"> 
-<div class="jumbotron">
-  <h1>Data-Driven Documents</h1>
-  <p>D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s 
-  emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining 
-  powerful visualization components and a data-driven approach to DOM manipulation.</p>
-</div>
-</div>
-<div>            
-<div id="nav" style="width:18%;float:left;display:inline-block">
-    <div class="menu1-container"></div>
-    <div class="menu2-container">
-        <input type="text" class="menu2-search" placeholder="Search" />
-        <li class="all"><a href="" class="displayName">all</a></li>
+  </head>
+  <body>
+    <div id="header_wrap" class="outer info">
+      <header class="inner">
+        <h1 align="left" id="project_title">Data-Driven Documents</h1>
+        <p id="project_title_p">D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s 
+          emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining 
+          powerful visualization components and a data-driven approach to DOM manipulation.</p>
+      </header>
     </div>
-</div>
-<div id="list" style="width:80%;float:right;display:inline-block">
-    <div class="menu3-container"></div>
-</div>
-</div>
-
-
+    
+    <div class="inner head">
+    <div class="well" id="nav" style="width:18%;float:left;display:inline-block">
+        <div class="menu1-container"></div>
+        <div class="menu2-container">
+            <input type="text" class="menu2-search" />
+            <li class="all"><a href="" class="displayName">all</a></li>
+        </div>
+    </div>
+    <div class="list" id="list" style="width:75%;float:right;display:inline-block">
+        <div class="menu3-container"></div>
+    </div>
+    </div>
+        <a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
 <script type="text/javascript">
 
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-46317004-1', 'data-visualisation.github.io');
-      ga('send', 'pageview');
-
-
+    $(window).scroll(function() {
+        if ($(this).scrollTop() >= 50) {        
+            $('#return-to-top').fadeIn(200);    
+        } else {
+            $('#return-to-top').fadeOut(200);   
+        }
+    });
+    $('#return-to-top').click(function() {     
+        $('body,html').animate({
+            scrollTop : 0             
+        }, 500);
+    });
+    
     d3.select('.about-link').on('click', function(d, i){
         d3.event.preventDefault();
         d3.select('.about-box').style({display: 'block'});
@@ -133,7 +154,6 @@
                 dups[val] = uniques[val];
             } else uniques[val] = 1;
         }
-//        return(dups);
         return(uniques);
     }
 
@@ -204,8 +224,6 @@
         processLocationHash();
     });
 
-    
-
     d3.select('#list').on('scroll', function(d, i){
         if(this.scrollHeight - this.scrollTop <= getDocHeight()){
             numInView += numInOneScreen;
@@ -213,6 +231,14 @@
         }
     });
 
+    
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-46317004-1', 'data-visualisation.github.io');
+      ga('send', 'pageview');
 </script>
 
 </body>
